@@ -21,5 +21,4 @@ class Memo {
         Memo(content: "메룽"),
         Memo(content: "바부")
     ]
-    
 }
